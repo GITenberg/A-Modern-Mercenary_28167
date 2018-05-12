@@ -1,0 +1,40 @@
+_repo: A-Modern-Mercenary_28167
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Prichard, K. (Kate)
+    aliases:
+    - Prichard, Kate O'Brien Hesketh
+    - Prichard, Kate
+    - Hesketh Prichard, K. (Kate)
+    gutenberg_agent_id: '33173'
+    url: http://www.gutenberg.org/2009/agents/33173
+  - agent_name: Prichard, Hesketh Vernon Hesketh
+    aliases:
+    - Hesketh-Prichard, Hesketh Vernon
+    - Prichard, H. Hesketh (Hesketh Vernon Hesketh)
+    - Pritchard, Hesketh
+    - Hesketh-Prichard, H. (Hesketh)
+    birthdate: 1876
+    deathdate: 1922
+    gutenberg_agent_id: '33174'
+    url: http://www.gutenberg.org/2009/agents/33174
+    wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
+description: ''
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'British -- Europe -- Fiction'
+- !lcsh 'Adventure stories'
+title: A Modern Mercenary
+url: http://www.gutenberg.org/ebooks/28167
