@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33174
     wikipedia: http://en.wikipedia.org/wiki/Hesketh_Hesketh-Prichard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28167#A-Modern-Mercenary
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
 identifiers:
